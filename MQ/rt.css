@@ -1,0 +1,14 @@
+@charset "UTF-8"
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body,html{
+    background: url(../treino2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+     background-position: bottom bottom;
+ 
+}
