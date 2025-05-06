@@ -39,8 +39,6 @@ flex-direction: row;
 text-align: center;
 margin: 5px;
 
-
-
 }
 header{
     background-color: gray;
@@ -65,5 +63,4 @@ text-align: justify;
 margin: 20px;
 padding:20px;
 border-radius: 10px;
-
 }
